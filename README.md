@@ -1,4 +1,45 @@
-### Hi there 👋
+## About Me
+Hallo! I'm `Dre`, a developer in training <br>
+You can reach me through Discord: `DreMan 360#1474` <br>
+Pronouns: `He/Him` <br>
+Fun Fact: `I have never poisoned someone using the cyanide in a cherry pit`. <br>
+
+
+## Knowledge
+
+<div class="center">
+<table>
+  <tr>
+    <td>
+      <b>Has Much Experience In</b>
+    </td>
+    <td>
+      <b>Currently Learning/To Be Learned</b>
+    </td>
+  <tr>
+      <td>
+        <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+        <img alt="Nextcord" src="https://img.shields.io/badge/Nextcord-6cb7eb?style=for-the-badge&logo=discord&logoColor=white"/>
+      </td>
+      <td>
+          <img alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+          <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+          <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <br>
+          <img alt="Git" src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=green"/>
+          <img alt="Arduino" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+          <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
+      </td>
+</table>      
+
+## Activity
+<img src="https://lanyard-profile-readme.vercel.app/api/579494409725411329?bg=#000cb8" width="450">
+
+
+## Current Projects
+**Querium, one of the Discord bots of all time *click the image to see our Discord***
+
+
+
 
 <!--
 **DreMan360/DreMan360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
