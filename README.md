@@ -1,5 +1,5 @@
 ## About Me
-Hallo! I'm `Dre`, a developer in training <br>
+Hallo! I'm `Dre`, a person who thinks he can code <br>
 You can reach me through Discord: `DreMan 360#1474` <br>
 Pronouns: `He/Him` <br>
 Fun Fact: `I have never poisoned someone using the cyanide in a cherry pit`. <br>
