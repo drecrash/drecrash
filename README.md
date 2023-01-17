@@ -38,7 +38,7 @@ Fun Fact: `I have never poisoned someone using the cyanide in a cherry pit`. <br
   <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dreman360&show_icons=true&count_private=true&hide_border=true" align="left" /></div>
 <br />
 
-
+<br>
 ## Current Projects
 **Querium, one of the Discord bots of all time** *click the image to see our Discord* <br> <br>
 <a target="_blank" href="https://dsc.gg/querium"><img alt="Invite" src="https://img.shields.io/badge/Invite the Bot-bf0acc?style=for-the-badge&logo=discord&logoColor=white"/>
