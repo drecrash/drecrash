@@ -34,9 +34,6 @@ Fun Fact: `I have never poisoned someone using the cyanide in a cherry pit`. <br
   
 ## Activity
 <img src="https://lanyard-profile-readme.vercel.app/api/579494409725411329?bg=#000cb8" width="450">
-  
-## Github Stats
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dreman360&show_icons=true&count_private=true&hide_border=true" align="left" /></div> <br>
 
 
 ## Current Projects
