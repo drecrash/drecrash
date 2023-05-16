@@ -25,7 +25,7 @@ Fun Fact: `I breathe oxygen on a regular basis`. <br>
       <td>
           <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
           <img alt="C++" src="https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=cpp&logoColor=white"/>
-          <img alt="Arduino" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+          <img alt="Arduino" src="https://img.shields.io/badge/Arduino-239120?style=for-the-badge&logo=arduino&logoColor=white"/>
       </td>
 </table>      
 
