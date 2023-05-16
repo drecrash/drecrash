@@ -23,8 +23,8 @@ Fun Fact: `I breathe oxygen on a regular basis`. <br>
         <img alt="Flask" src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=white"/>
       </td>
       <td>
-          <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <br>
-          <img alt="C++" src="https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=cpp&logoColor=white"/> <br>
+          <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+          <img alt="C++" src="https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=cpp&logoColor=white"/>
           <img alt="Arduino" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
       </td>
 </table>      
