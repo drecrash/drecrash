@@ -1,8 +1,8 @@
 ## About Me
-Hallo! I'm `Dre`, a person who thinks he can code <br>
+Why hello there. I'm `Dre`, a person who thinks he can code <br>
 You can reach me through Discord: `DreMan 360#1474` <br>
 Pronouns: `He/Him` <br>
-Fun Fact: `I have never poisoned someone using the cyanide in a cherry pit`. <br>
+Fun Fact: `I breathe oxygen on a regular basis`. <br>
 
 
 ## Knowledge
@@ -11,7 +11,7 @@ Fun Fact: `I have never poisoned someone using the cyanide in a cherry pit`. <br
 <table>
   <tr>
     <td>
-      <b>Has Much Experience In</b>
+      <b>Experienced In</b>
     </td>
     <td>
       <b>Currently Learning/To Be Learned</b>
@@ -20,14 +20,13 @@ Fun Fact: `I have never poisoned someone using the cyanide in a cherry pit`. <br
       <td>
         <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
         <img alt="Nextcord" src="https://img.shields.io/badge/Nextcord-6cb7eb?style=for-the-badge&logo=discord&logoColor=white"/>
+        <img alt="Flask" src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=white"/>
       </td>
       <td>
-          <img alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-          <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
           <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <br>
-          <img alt="Git" src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=green"/>
+          <img alt="C++" src="https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=cpp&logoColor=white"/> <br>
           <img alt="Arduino" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-          <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
+        
       </td>
 </table>      
 
