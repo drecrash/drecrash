@@ -20,11 +20,11 @@ Fun Fact: `I breathe oxygen on a regular basis`. <br>
       <td>
         <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
         <img alt="Nextcord" src="https://img.shields.io/badge/Nextcord-6cb7eb?style=for-the-badge&logo=discord&logoColor=white"/>
+        <img alt="C++" src="https://img.shields.io/badge/C++-239125?style=for-the-badge&logo=cpp&logoColor=white"/>
         <img alt="Flask" src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=white"/>
       </td>
       <td>
           <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-239120?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-          <img alt="C++" src="https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=cpp&logoColor=white"/>
           <img alt="Arduino" src="https://img.shields.io/badge/Arduino-239120?style=for-the-badge&logo=arduino&logoColor=white"/>
       </td>
 </table>      
