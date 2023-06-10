@@ -1,6 +1,6 @@
 ## About Me
 Why hello there. I'm `Dre`, a person who thinks he can code <br>
-You can reach me through Discord: `DreMan 360#1474` <br>
+You can reach me through Discord: `DreMan 360#1474 / @drecrash` <br>
 Pronouns: `He/Him` <br>
 Fun Fact: `I breathe oxygen on a regular basis`. <br>
 
