@@ -1,43 +1,39 @@
-https://www.import.academy
 ## About Me
-Why hello there. I'm `Dre`, a person who thinks he can code <br>
-You can reach me through Discord: `DreMan 360#1474 / @drecrash` <br>
+Why hello there. I'm `Dre`. <be>
 Pronouns: `He/Him` <br>
+Website: `https://dre.ong`
+Current Endeavor: `https://phonebook.today`
 Fun Fact: `I breathe oxygen on a regular basis`. <br>
 
+## Socials:
+Discord: `@drecrash` (originally `DreMan 360#1474`) <br>
+Github: Don't have one <br>
+Phonebook: `https://phonebook.dre.ong`
 
 ## Knowledge
 
 <div class="center">
 <table>
   <tr>
-    <td>
-      <b>Experienced In</b>
-    </td>
-    <td>
-      <b>Currently Learning/To Be Learned</b>
-    </td>
+    <th>
+      <b>Experience</b>
+    </th>
+    <th>
+      <b>In-Progress</b>
+    </th>
+    <th>
+      <b>Surface Level Knowledge</b>
+    </th>
   <tr>
-      <td>
-        <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-        <img alt="Nextcord" src="https://img.shields.io/badge/Nextcord-6cb7eb?style=for-the-badge&logo=discord&logoColor=white"/>
-        <img alt="C++" src="https://img.shields.io/badge/C++-239125?style=for-the-badge&logo=cpp&logoColor=white"/>
-        <img alt="Flask" src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=white"/>
-      </td>
-      <td>
-          <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-239120?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-          <img alt="Arduino" src="https://img.shields.io/badge/Arduino-239120?style=for-the-badge&logo=arduino&logoColor=white"/>
-      </td>
+      <td> Python, Arduino, Nextcord ; AWS Lambda, S3, API Gateway </td>
+      <td> Rust, TypeScript </td>
+      <td> C++, Flask ; AWS DynamoDB </td>
+  </tr>
 </table>      
 
   
 ## Discord Activity
 <img src="https://lanyard-profile-readme.vercel.app/api/579494409725411329?bg=#000cb8" width="450">
-
-
-## Current Projects
-**Import** <br> <br>
-<a target="_blank" href="https://import.academy"><img src="https://github.com/drecrash/drecrash/blob/main/Images/importLogo1.png?raw=true" alt="Logo" style="height: 100px; length:100px;"><p/><a>
 
 
 
