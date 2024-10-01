@@ -2,13 +2,12 @@
 Why hello there. I'm `Dre`. <br>
 Pronouns: `He/Him` <br>
 Website: `https://dre.ong` <br>
-Current Endeavor: `https://phonebook.today` <br>
+Current Endeavor: College? <br>
 Fun Fact: `I breathe oxygen on a regular basis`. <br>
 
 ## Socials:
 Discord: `@drecrash` (originally `DreMan 360#1474`) <br>
 Github: Don't have one <br>
-Phonebook: `https://phonebook.dre.ong` <br>
 
 ## Knowledge
 
