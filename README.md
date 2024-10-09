@@ -25,7 +25,7 @@ Github: Don't have one <br>
     </th>
   <tr>
       <td> Python, Arduino, Nextcord ; AWS Lambda, S3, API Gateway </td>
-      <td> Rust, TypeScript </td>
+      <td> Javascript </td>
       <td> C++, Flask ; AWS DynamoDB </td>
   </tr>
 </table>      
